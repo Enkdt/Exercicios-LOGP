@@ -1,1 +1,1 @@
-# Exercicios_C
+Exercícios C das Listas sala e casa
