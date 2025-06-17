@@ -14,7 +14,7 @@ int main()
         for(j=0;j<10;j++){
             if(v[i]<v[j]){
                 tomp = v[j];
-                v[j] = v[i];
+                v[j] = v[i]; //ensina a fazer o merge ou radix miyuki :)))))
                 v[i] = tomp;
             }
         }
