@@ -1,0 +1,5 @@
+V = int(input('Digite o valor: '))
+Tx = int(input('Digite a taxa: '))
+T = int(input('Digite o tempo: '))
+P = V+(V*(Tx/100)*T)
+print(f"prestação {P}")
