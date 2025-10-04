@@ -1,2 +1,2 @@
-Exercícios de Logica das Listas sala e casa, cada uma em sua respectiva branch
+Exercícios de Logica das Listas sala e casa, cada uma em sua respectiva pasta
 
