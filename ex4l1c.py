@@ -1,3 +1,4 @@
+#Bateu preguiça de separar, fui fazendo e só deixei em uma file memo :)
 #EX1L1C
 x = float(input("Digite o valor em real para ser transformado em dolar"))
 x /=2.4
@@ -87,3 +88,4 @@ a = 10
 t = float(input("digite o valor de t: "))
 s = s0 + v0 * t + 0.5 * a * t ** 2
 print("s:", s)
+
